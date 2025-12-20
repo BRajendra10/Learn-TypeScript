@@ -1,0 +1,25 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "This repo is created for learnings of my typescript from chai aur code / chai aur typescript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRajendra10/Learn-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BRajendra10/Learn-TypeScript/issues"
+  },
+  "homepage": "https://github.com/BRajendra10/Learn-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
