@@ -49,7 +49,7 @@ type MasalaChai = BaseChai & Extra;
 
 const cup: MasalaChai = {
     teaLeaves: 2,
-    masala: 1;
+    masala: 1,
 }
 
 
